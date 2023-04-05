@@ -11,6 +11,7 @@ aside: false
 - [日本語 / Japanese](https://ja.vuejs.org/) [[source](https://github.com/vuejs-translations/docs-ja)]
 - [Українська / Ukrainian](https://ua.vuejs.org/) [[source](https://github.com/vuejs-translations/docs-uk)]
 - [Français / French](https://fr.vuejs.org) [[source](https://github.com/vuejs-translations/docs-fr)]
+- [Persian / Iran](https://pr.vuejs.org) [[source](https://github.com/vuejs-translations/docs-pr)]
 
 <!-- ## Work in Progress Languages {#work-in-progress-languages} -->
 
